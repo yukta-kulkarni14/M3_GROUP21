@@ -1,5 +1,5 @@
 # Problem Statement
-As many of us know there were lot of thefts happening in recent times in automobiles either the vehicle or personal things so here is the solution where we can unlock our automobiles with RKE.
+Remote keyless entry (RKE) system is a system designed to remotely lock or unlock access to automobiles.  RKE functions are printing lock , unlock, alarm activation/deactivation, approach light.As many of us know there were lot of thefts happening in recent times in automobiles either the vehicle or personal things so here is the solution where we can unlock our automobiles with RKE.
 # Introduction
 The term far off keyless framework (RKS), likewise called keyless section or distant focal locking, alludes to a lock that involves an electronic controller as a key which is enacted by a handheld gadget or naturally by nearness. Broadly utilized in vehicles, a RKS fills the roles of a standard vehicle key without actual contact.
 # Description
@@ -8,19 +8,19 @@ The term far off keyless framework (RKS), likewise called keyless section or dis
 ## High Level Requirements
 |ID|Descrption|Status|
 |--|----------|------|
-|HR01|User can unlock and lock the automobile|Implemented|
-|HR02|offering simple addressing capabilities that give each system a unique identity|Implemented|
-|HR03|Secure systems encrypt a portion of the digital data stream before sending it to the transmitter|Implemented|
-|HR04|Locking of door|Implemented|
-|HR05|Unlocking of door|Implemented|
-|HR06|Lasts for decades or so|Not implemented|
+|HR01|Function to print the Lock|Implemented|
+|HR02|Function to print the Unlock|Implemented|
+|HR03|Function to print alarm activation/deactivation|Implemented|
+|HR04|Function to print approach light|Implemented|
+
 
 ## Low Level Requirements
 |ID|Description|Status|
 |--|-----------|------|
-|LR01|User can select required action either locking or unlocking|Implemented|
-|LR02|Can be repairable |Implemented|
-|LR03|Can used for long distance|Not implemented|
+|HR01|Turn on all led's at a time|Implemented|
+|HR02|Turn off all led's at a time|Implemented|
+|HR03|Blinking of all led's in clockwise manner|Implemented|
+|HR04|Blinking of all led's in anticlockwise manner|Implemented|
 # SWOT
 ![swot analysis](./m32.jpg)
 # 4W's & 1H
