@@ -17,10 +17,10 @@ The term far off keyless framework (RKS), likewise called keyless section or dis
 ## Low Level Requirements
 |ID|Description|Status|
 |--|-----------|------|
-|HR01|Turn on all led's at a time|Implemented|
-|HR02|Turn off all led's at a time|Implemented|
-|HR03|Blinking of all led's in clockwise manner|Implemented|
-|HR04|Blinking of all led's in anticlockwise manner|Implemented|
+|HR01|Press switch once to turn on all led's at a time|Implemented|
+|HR02|Press switch twice to turn off all led's at a time|Implemented|
+|HR03|Press switch thrice to blink of all led's in clockwise manner|Implemented|
+|HR04|Press switch four times to blink of all led's in anticlockwise manner|Implemented|
 # SWOT
 ![swot analysis](./m32.jpg)
 # 4W's & 1H
