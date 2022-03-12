@@ -138,7 +138,8 @@ void alarm_status(void)
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_15,GPIO_PIN_RESET);
 
 
-}void car_battery_info(void)
+}
+void car_battery_info(void)
 {
 	GPIO_WriteToOutputPin(GPIOD, GPIO_PIN_NO_12,GPIO_PIN_SET);
 	delay();
