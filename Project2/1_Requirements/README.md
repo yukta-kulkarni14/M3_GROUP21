@@ -1,6 +1,6 @@
 # BiCom System
 # Problem Statement
-2.1	A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Typical BiCom status information transmitted to the keyfob are: window status, alarm status, car battery info, door status .As we know that there is RKE system which is only unidirectional here we use BiCom system which can be bidirectional.
+A BiCom system is the extention of the unidirectional RKE to bidirectional RKE system. Typical BiCom status information transmitted to the keyfob are: window status, alarm status, car battery info, door status .As we know that there is RKE system which is only unidirectional here we use BiCom system which can be bidirectional.
 # Introduction
 Here it is similar to RKE where it is used for locking and unlocking of automobiles but there it is only of unidirectional but here it is used as bidirectional means here BiCom operates by radio waves on a particular frequency bidirectionally unlike RKE where it acts unidirectionally here it also provide entire car status on a LED where we can manage all the operations of an automobile.
 # Description
